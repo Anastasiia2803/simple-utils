@@ -1,5 +1,8 @@
-# simple-utils
-Small utility collection by Igor Litus.
+![CI](https://github.com/Igorlitus/simple-utils/actions/workflows/test.yml/badge.svg)
+
+# Simple Utils
+A small Python utility collection with basic math functions and quotes.
+
 
 ```bash
 python main.py
