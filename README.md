@@ -1,4 +1,5 @@
-![CI](https://github.com/Igorlitus/simple-utils/actions/workflows/test.yml/badge.svg)
+![CI](https://github.com/Anastasiia2803/simple-utils/actions/workflows/test.yml/badge.svg)
+
 
 # Simple Utils
 A small Python utility collection with basic math functions and quotes.
