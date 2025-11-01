@@ -9,3 +9,4 @@ jobs:
         with:
           python-version: "3.11"
       - run: python utils/math_tools.py
+      - run: python test_utils.py
